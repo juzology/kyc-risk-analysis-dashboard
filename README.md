@@ -138,6 +138,7 @@ Data cleaning and preparation, Data analysis, Data modelling, Microsoft Excel, P
 ├── excel/
 │   └──KYC_Risk_Analysis_Dashboard.xlsx
 │   └── Synthetic_KYC_Dataset.xlsx
+│   └── Synthetic_KYC_Dataset_Dirty.xlsx
 │
 ├── python/
 │   ├── generate_kyc_data.py
